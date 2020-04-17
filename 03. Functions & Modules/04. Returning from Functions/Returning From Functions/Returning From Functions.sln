@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Returning From Functions", "Returning From Functions.pyproj", "{E64F956A-E12F-4B11-A9BD-ACF6F44F71D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64F956A-E12F-4B11-A9BD-ACF6F44F71D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64F956A-E12F-4B11-A9BD-ACF6F44F71D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E38D78C-ABAB-4492-BD4D-DD2597D6E293}
+	EndGlobalSection
+EndGlobal
