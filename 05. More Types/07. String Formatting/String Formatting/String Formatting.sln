@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "String Formatting", "String Formatting\String Formatting.pyproj", "{ACD4C02F-C335-4425-87D9-D00DD596C283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD4C02F-C335-4425-87D9-D00DD596C283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD4C02F-C335-4425-87D9-D00DD596C283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5648BCA-2D78-4C51-9866-B5339FFAA697}
+	EndGlobalSection
+EndGlobal

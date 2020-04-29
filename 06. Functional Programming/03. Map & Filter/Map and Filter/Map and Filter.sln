@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Map and Filter", "Map and Filter\Map and Filter.pyproj", "{F63AA25E-EC67-42ED-8AE8-7EFC85A9C1DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63AA25E-EC67-42ED-8AE8-7EFC85A9C1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63AA25E-EC67-42ED-8AE8-7EFC85A9C1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {763A9655-5F83-426E-8C19-0D3B72E447D3}
+	EndGlobalSection
+EndGlobal
