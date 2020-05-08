@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>f7419c3d-42e6-4121-9186-4e8cabad14a1</ProjectGuid>
+    <ProjectGuid>6e05a731-06af-408f-ba73-e98e26f100d4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Email_Extraction.py</StartupFile>
+    <StartupFile>The_Zen_of_Python.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Email Extraction</Name>
-    <RootNamespace>Email Extraction</RootNamespace>
+    <Name>The Zen of Python</Name>
+    <RootNamespace>The Zen of Python</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Email_Extraction.py" />
+    <Compile Include="The_Zen_of_Python.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Email Extraction", "Email Extraction\Email Extraction.pyproj", "{F7419C3D-42E6-4121-9186-4E8CABAD14A1}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Packages", "Packages\Packages.pyproj", "{ACDB94DF-3045-46B9-A22C-F425F110ABD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F7419C3D-42E6-4121-9186-4E8CABAD14A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7419C3D-42E6-4121-9186-4E8CABAD14A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDB94DF-3045-46B9-A22C-F425F110ABD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDB94DF-3045-46B9-A22C-F425F110ABD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DD3D8075-3081-4562-9457-D5539CDFE805}
+		SolutionGuid = {507BAA7E-6B3C-4A9E-B757-FCA535495E37}
 	EndGlobalSection
 EndGlobal
